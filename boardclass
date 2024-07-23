@@ -1,4 +1,4 @@
-class MonopolyBoard:
+lass MonopolyBoard:
     def __init__(self):
         self.board = self.create_board()
         self.players = []
